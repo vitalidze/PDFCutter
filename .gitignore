@@ -8,3 +8,9 @@
 # idea files #
 .idea
 *.iml
+
+# mvn target #
+target
+
+# jre #
+jre
