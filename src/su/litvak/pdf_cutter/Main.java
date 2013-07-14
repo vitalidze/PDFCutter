@@ -1,4 +1,4 @@
-package su.litvak;
+package su.litvak.pdf_cutter;
 
 import com.itextpdf.text.Document;
 import com.itextpdf.text.pdf.PdfCopy;
